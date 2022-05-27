@@ -14,4 +14,4 @@ Namaste,
 
 #### Note :- The website work well on desktop.
 
-Futeure Scope :- We can add multiple plots as our need to get insight from data. We can also add a gui in it which, shows as we clicked on website, have 5 options asking user for what range s/he wants to see insights (using radio buttons). 
+Futeure Scope :- We can add multiple plots as of our need to get insight from data. We can also add a gui in it which, shows as we clicked on website, have 5 options asking user for what range s/he wants to see insights (using radio buttons). 

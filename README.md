@@ -15,3 +15,6 @@ Namaste,
 #### Note :- The website work well on desktop.
 
 Futeure Scope :- We can add multiple plots as of our need to get insight from data. We can also add a gui in it which, shows as we clicked on website, have 5 options asking user for what range s/he wants to see insights (using radio buttons). 
+
+I use agile method to develop this project.
+I divide given data on the basis of price range in Budget range(below 12L), Mid range(12L to 40L), Premium range(40L to 1Cr) and luury cars(above 1Cr) because it make easy to analyse data for manufacturer's point of view that in this price range I can go with these features.

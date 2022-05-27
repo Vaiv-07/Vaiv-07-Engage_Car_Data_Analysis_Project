@@ -8,7 +8,7 @@ Namaste,
         
         I also use 000webhost platform to deploy my jupyter notebook work's html file.
         
-        The "index.html" is the html version of my notebook file.
+        The "index.html" is the html version of my notebook file with corrosponding output.
        
 ## Here is the web link for my work - https://engage20.000webhostapp.com/
 
